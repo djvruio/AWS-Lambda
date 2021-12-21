@@ -4,9 +4,9 @@ This is a repository of various Lambdas functions that I have written. They do v
 # Things I Learned
 - AWS Lambda
 - What defines serverless:
-    - No servers to provision or manage.
-    - Automatically scales with usage (Up and Down).
-    - Never pay for idle (Pay only for what you use).
+    - No servers to provision or manage (either physical or virtual).
+    - Automatically scales with usage (up and down).
+    - Never pay for idle (pay only for what you use).
     - Avalilability and fault-tolerance built-in.
     - No AMI rehydration.
 - Python coding.
